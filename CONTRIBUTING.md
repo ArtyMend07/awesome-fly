@@ -1,6 +1,6 @@
 # Contributing to Awesome Fly
 
-Suggest a repository through an issue or add it directly with a pull request. Corrections, updated links, and clearer descriptions are welcome.
+Built a fly-connectome project? You are welcome to add your own repository directly with a pull request. There is no minimum star count. You can also suggest a repository through an issue. Corrections, updated links, and clearer descriptions are welcome.
 
 ## What belongs here
 
