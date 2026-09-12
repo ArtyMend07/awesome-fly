@@ -1,0 +1,35 @@
+name: Suggest a fly project
+description: Add a repository, tool, dataset, or experiment to Awesome Fly.
+title: "Add: "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or official resource
+      description: Link to the original public project.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: Name the fly dataset and explain what someone can use or learn.
+    validations:
+      required: true
+  - type: textarea
+    id: status
+    attributes:
+      label: Implementation and evidence
+      description: Is source available? Whole retained graph, circuit subset, or visual prototype? Link to documentation, results, or a demo, and state any relationship to the project.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked the existing list and the contribution guide.
+          required: true
+        - label: I linked the original project and described its current status accurately.
+          required: true
