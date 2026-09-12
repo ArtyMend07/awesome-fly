@@ -1,5 +1,14 @@
 # Awesome Fly [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> [!TIP]
+> **Build your own fly experiment with [fly-connectome-template](https://github.com/cobanov/fly-connectome-template) by [Mert Cobanov](https://github.com/cobanov).**
+>
+> Start with a real MaleCNS soma atlas, the anatomical Flybody mesh, and a React + Three.js workbench. Bring your own environment and model; the starter includes a documented model-output format, not a pretrained brain.
+>
+> **[Use this template →](https://github.com/new?template_name=fly-connectome-template&template_owner=cobanov)** · [Explore the starter](https://github.com/cobanov/fly-connectome-template) · [Model integration guide](https://github.com/cobanov/fly-connectome-template/blob/main/docs/MODEL-INTEGRATION.md)
+>
+> Source-available under a [custom license](https://github.com/cobanov/fly-connectome-template/blob/main/LICENSE): linked template credit is required in your web UI and repository README.
+
 > A curated collection of fruit fly connectome projects, from Doom and desktop pets to brain models, biomechanical bodies, and research tools.
 
 Explore what people are building with **MaleCNS**, **FlyWire**, and the *Drosophila melanogaster* connectome. Each entry links to its creators' repository and explains what it actually offers.
