@@ -105,7 +105,8 @@ A **connectome** records neurons and their connections. A simulation adds assump
 - [drosophila-brain-mlx](https://github.com/Kisame76/drosophila-brain-mlx) by **Kisame76** - Apple MLX and Metal port of the Shiu et al. LIF model on the complete FlyWire v630 graph, with a MaleCNS v1.0 pack, upstream-compatible `run_exp` output, and validation against the Brian2 reference. Includes a degree-preserving shuffled-connectome control. **Apple Silicon only.** [Control result](https://github.com/Kisame76/drosophila-brain-mlx#does-the-wiring-matter).
 - [AxonWeave](https://github.com/dhakalnirajan/axonweave) by **dhakalnirajan** - Python library exposing MaleCNS as a sparse, trainable substrate for NumPy, PyTorch, and TensorFlow while keeping source topology and modeling policies explicit.
 - [Embodied fly-brain](https://github.com/erojasoficial-byte/fly-brain) by **erojasoficial-byte** - Community research repository combining a FlyWire spiking model with NeuroMechFly/MuJoCo, sensory experiments, and an accompanying preprint.
-
+- [Wired Different](https://github.com/dhruvin-sarkar/ConnectomeLens) by **dhruvin-sarkar** - classifier predicting sexually dimorphic cell types from male CNS connectome (male-cns v1.0) wiring, validated against degree-preserving null graphs; static demo with atlas, pathfinder and guessing game.
+  
 ## Datasets and official resources
 
 - [MaleCNS](https://male-cns.janelia.org/) - Official male CNS project, cell-type exploration, release history, and [downloads](https://male-cns.janelia.org/download/). Collaboration between FlyEM/HHMI Janelia, Cambridge, MRC LMB, and Google Research.
